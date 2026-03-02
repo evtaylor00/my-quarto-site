@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: dadb1c6b-a447-4016-a3e0-66e855f12860
+      url: 'https://evtaylor.quarto.pub/exit'
+    - id: 6b0297b6-0f02-4f70-b05c-05915bd583d5
+      url: 'https://evtaylor.quarto.pub/ellen-taylor'

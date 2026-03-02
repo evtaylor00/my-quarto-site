@@ -1,0 +1,31 @@
+{
+    "id": "1C623C33",
+    "path": "~/SMU/PhD/STAT6366/Personal Webpage/STAT6366Webpage/Resume.qmd",
+    "project_path": "Resume.qmd",
+    "type": "quarto_markdown",
+    "hash": "3333640440",
+    "contents": "",
+    "dirty": false,
+    "created": 1729139264503.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "1,15",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1729139286,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1729139286930,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,20 @@
+---
+title: "About"
+image: ETaylor-Headshot.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/ellen-taylor-247867211
+    - icon: github
+      text: Github
+      href: https://github.com/evtaylor00
+    - text: "{{< ai google-scholar >}}"	
+      href: https://scholar.google.com/citations?hl=en&user=NlSIInsAAAAJ
+      
+---
+
+I am a biostatistics PhD student at Southern Methodist University (SMU) and a graduate research assistant in the Concussion, Acquired Brain Injury, and Neurodegeneration (CABIN) laboratory at UT Southwestern Medical Center. Prior to my PhD studies, I studied statistics (B.S.) and economics (B.A.) at SMU. My research interests include modeling noisy data, the intersection of machine learning and brain trauma research, and longitudinal analysis.
+
+**Skills and Coursework:** Coding in R, Python, SAS, SQL; Bayesian Statistics; Clinical Trials; Linear Regression

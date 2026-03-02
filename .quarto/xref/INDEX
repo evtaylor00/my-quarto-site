@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "e38c03da"
+  },
+  "about.qmd": {
+    "about.html": "764a5322"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "0649e0ff"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "c7b04d68"
+  },
+  "posts.qmd": {
+    "posts.html": "7d731899"
+  },
+  "Projects.qmd": {
+    "Projects.html": "03a13245"
+  },
+  "Resume.qmd": {
+    "Resume.html": "493126d8"
+  },
+  "posts/STAT6336LitReview/index.qmd": {
+    "index.html": "f28d8780"
+  }
+}
